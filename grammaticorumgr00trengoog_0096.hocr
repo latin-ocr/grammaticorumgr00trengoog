@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./grammaticorumgr00trengoog_0096.png"; bbox 0 0 2994 5018; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 299 1905 1019 2081">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 299 1905 1019 2081">
+     <span class='ocr_line' id='line_1_1' title="bbox 299 1905 1019 2081; baseline -0.003 -50"><span class='ocrx_word' id='word_1_1' title='bbox 299 2075 302 2081; x_wconf 7' lang='lat' dir='ltr'>A</span> <span class='ocrx_word' id='word_1_2' title='bbox 353 1905 727 2031; x_wconf 68' lang='lat' dir='ltr'><strong>flssfflffl‘lcossvm</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 759 1949 1019 2030; x_wconf 66' lang='lat' dir='ltr'><strong>amcossvm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 478 2171 897 2299">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 478 2171 897 2299">
+     <span class='ocr_line' id='line_1_2' title="bbox 478 2171 897 2299; baseline 0 -3"><span class='ocrx_word' id='word_1_4' title='bbox 478 2219 536 2298; x_wconf 67' lang='lat' dir='ltr'><strong>nn</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 566 2217 681 2299; x_wconf 70' lang='lat' dir='ltr'><strong>ARTE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 711 2171 897 2297; x_wconf 63' lang='lat' dir='ltr'><strong>mmm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 425 2507 938 2603">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 425 2507 938 2603">
+     <span class='ocr_line' id='line_1_3' title="bbox 425 2507 938 2603; baseline -0.006 -13"><span class='ocrx_word' id='word_1_7' title='bbox 425 2509 678 2590; x_wconf 74' lang='lat' dir='ltr'><strong>lvnlclossvM</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 706 2507 938 2603; x_wconf 61' lang='lat' dir='ltr'><strong>Rumam</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1502 5018">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1502 5018">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1502 5018; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1502 5018; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
